@@ -10,10 +10,10 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Anand Rajpal </span>
             from <span className="purple"> New Delhi, India.</span>
-            <br /> a passionate product manager with 2 years of experience in product domain
+            <br /> a passionate product manager with 3 years of experience in product domain
              driven by a deep curiosity for innovation, problem-solving, and creating exceptional user experiences
             <br />
-            I am currently employed as an Associate Product Manager at
+            I am currently employed as a Product Manager at
             Virohan a healthcare focused ed tech company.
             <br />
             <br />
